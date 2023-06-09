@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sovolenka
 - 👀 I’m interested in front-end 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https:/t.me/sovolenka
 
 <!---
